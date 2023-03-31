@@ -17,6 +17,7 @@ function App() {
       actions.addHintMsg({
         customIcon: {
           displayIcon: (
+            // use "styled component" will crash, but use Box (from material-ui) or div will not crash
             <StyledIconAlert>
               <i className="font-icon-alert-fill font-size-20" />
             </StyledIconAlert>
