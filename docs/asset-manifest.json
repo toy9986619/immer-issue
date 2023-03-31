@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.9071bff3.css",
-    "main.js": "/static/js/main.17cd86b3.js",
-    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/index.html",
-    "main.9071bff3.css.map": "/static/css/main.9071bff3.css.map",
-    "main.17cd86b3.js.map": "/static/js/main.17cd86b3.js.map",
-    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/immer-issue/static/css/main.9071bff3.css",
+    "main.js": "/immer-issue/static/js/main.5392970c.js",
+    "static/js/787.28cb0dcd.chunk.js": "/immer-issue/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/immer-issue/index.html",
+    "main.9071bff3.css.map": "/immer-issue/static/css/main.9071bff3.css.map",
+    "main.5392970c.js.map": "/immer-issue/static/js/main.5392970c.js.map",
+    "787.28cb0dcd.chunk.js.map": "/immer-issue/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9071bff3.css",
-    "static/js/main.17cd86b3.js"
+    "static/js/main.5392970c.js"
   ]
 }
